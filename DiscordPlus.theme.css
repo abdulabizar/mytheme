@@ -50,7 +50,7 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 --dplus-spacing-app: 10px;
 
 /* The Home icon */
---dplus-icon-home-dark: url(//plusinsta.xyz/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://github.com/abdulabizar/mytheme/blob/df2d775c0c6b5f377caaab4ac0e06baf52dd1be9/assets/discord/Discord-Logo-White.svg);
 --dplus-icon-home-light: url(https://github.com/abdulabizar/mytheme/blob/59ec0ff7b2d31a8483cd0f49792164761b9bc91e/assets/discord/Discord-Logo-Black.svg);
 
 /* Icon sizes */
